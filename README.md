@@ -1,5 +1,5 @@
 #include <iostream>
-
+usingnamespacestd;
 int main() {
 
     int x = 5, y = 2;
