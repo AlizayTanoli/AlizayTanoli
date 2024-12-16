@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlizayTanoli
+- 👀 I’m interested in C++ Programming Language.
+- 🌱 I’m currently learning BS Computer Science.
