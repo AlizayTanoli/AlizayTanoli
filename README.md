@@ -1,3 +1,9 @@
-- 👋 Hi, I’m @AlizayTanoli
-- 👀 I’m interested in C++ Programming Language.
-- 🌱 I’m currently learning BS Computer Science.
+#include <iostream>
+
+int main() {
+
+    int x = 5, y = 2;
+    std::cout << x + y;
+
+    return 0;
+}
